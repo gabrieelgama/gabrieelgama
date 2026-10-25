@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050b0a,45:063b2b,100:00ff99&text=GABRIEL%20GAMA&fontColor=ddfff0&fontSize=55&fontAlignY=38&desc=I%20ARGUE%20WITH%20OLD%20GPUS%20FOR%20FUN&descAlignY=60&descSize=16&animation=fadeIn" alt="Gabriel Gama — GPU reverse engineering, Linux, Mesa" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050b0a,45:063b2b,100:00ff99&text=GABRIEL%20GAMA&fontColor=ddfff0&fontSize=55&fontAlignY=38&desc=I%20ARGUE%20WITH%20OLD%20GPUS%20FOR%20FUN&descAlignY=60&descSize=16&animation=fadeIn" alt="Gama — GPU reverse engineering, Linux, Mesa" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3200&pause=900&color=00FF99&center=true&vCenter=true&width=750&lines=I+reverse+engineer+GPUs+for+fun;My+test+machine+has+1GB+of+RAM;The+datasheet+is+missing.+Of+course.;One+more+register+and+I+can+sleep;ENOTSUP+is+not+a+personality+trait" alt="Animated terminal-style introduction" />
 
