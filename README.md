@@ -151,8 +151,6 @@ Got an old PowerVR device, SGX documentation, hardware test results, or a myster
 
 Please do not send me another undocumented GPU. I will absolutely start a third project.
 
-**GitHub:** [github.com/gabrieelgama](https://github.com/gabrieelgama)
-
 ```asm
 ; I have seen this number more than some of my relatives.
 MOV  EAX, 0x07000345
